@@ -1,0 +1,6 @@
+framework module fansPod {
+  umbrella header "fansPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

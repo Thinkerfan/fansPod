@@ -1,0 +1,16 @@
+PODS:
+  - fansPod (0.1.0)
+
+DEPENDENCIES:
+  - fansPod (from `../`)
+
+EXTERNAL SOURCES:
+  fansPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  fansPod: 03d589bb0f13e430164106d571d183638a7bd899
+
+PODFILE CHECKSUM: 6f671dc19c10a1d18b45456bc21637bac4892f34
+
+COCOAPODS: 1.6.1
